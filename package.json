@@ -1,0 +1,21 @@
+{
+  "name": "webgl-study",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "webpack",
+    "start": "webpack serve --open"
+  },
+  "repository": "https://UponTheSky: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@github.com/UponTheSky/webgl-study.git",
+  "author": "Sung Ju Yea <sailing.to.orbis@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "html-webpack-plugin": "^5.5.0",
+    "ts-loader": "^9.2.6",
+    "webpack": "^5.59.1",
+    "webpack-cli": "^4.9.1",
+    "webpack-dev-server": "^4.3.1"
+  },
+  "dependencies": {
+    "typescript": "^4.6.3"
+  }
+}
